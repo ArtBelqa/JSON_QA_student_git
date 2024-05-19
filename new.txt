@@ -1,0 +1,15 @@
+{"Artem" : "Alexandrovich"}
+{"Animal" : "Dog"}
+{"Dog" : "ALfred"}
+
+{
+    "user1":{
+            "name":"Artem",
+            "age":"28",
+            "city":"Vladivostok",        
+            },
+    "user2":{
+            "name":"Ilya",
+            "age":"25",
+            "city":"Nahodka"
+            }
